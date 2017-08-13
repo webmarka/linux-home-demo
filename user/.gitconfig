@@ -1,0 +1,5 @@
+[user]
+	name = USERNAME
+	email = USEREMAIL
+[diff "odf"]
+	textconv = odf2prettytxt
